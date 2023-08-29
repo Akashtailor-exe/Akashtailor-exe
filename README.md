@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://your-profile-image-url-here.jpg" alt="Your Name" width="200"/>
+    <img src="https://i.ibb.co/ZgZcnhh/robot-icon-bot-sign-design-chatbot-symbol-concept-voice-support-service-bot-online-support-bot-vecto.png" alt="Akash Tailor" width="200"/>
 </div>
 
 # Hey, I'm [Your Name] 🌟
